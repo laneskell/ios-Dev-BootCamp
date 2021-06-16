@@ -1,7 +1,9 @@
-# ios-Dev-BootCamp
-The complete iOS App Development BootCamp - The App Brewery - Angela Bauer
+# ios-Dev-swift
 
-ios developer course projects in swift
+Clone-Feed Instagram - xib -  table View
+[arquivo projeto ](https://github.com/laneskell/ios-Dev-BootCamp/tree/main/insta-ios-kell)
+
+https://user-images.githubusercontent.com/77758983/122292188-14a5ea00-cecc-11eb-8a0b-7518a9ddb9c2.mov
 
 
 Dice folder.
